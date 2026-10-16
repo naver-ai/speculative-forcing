@@ -1,5 +1,5 @@
 ## Speculative Forcing for Efficient Autoregressive Video Generation
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-coming%20soon-b31b1b.svg)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.22347-b31b1b.svg)](https://arxiv.org/abs/2610.22347)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://speculative-forcing.github.io/)
 
 **[Hyunwook Choi](https://eenrue.github.io/)<sup>1&#42;</sup>, [Seungryong Kim](https://cvlab.kaist.ac.kr/)<sup>1</sup>, [Dongyoon Han](https://sites.google.com/site/dyhan0920/)<sup>2†</sup>, [Sangdoo Yun](https://sangdooyun.github.io/)<sup>2†</sup>**
